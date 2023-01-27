@@ -2,8 +2,8 @@
 
 
  🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 Men bilan qanday bog'lanish mumkin: mtd.coder@gmail.com
+ 🌱 I’m currently learning ...
+ 📫 Men bilan qanday bog'lanish mumkin: mtd.coder@gmail.com
 
 
 
