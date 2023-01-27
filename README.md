@@ -4,7 +4,7 @@
 
  - 🔭 I’m currently working on ...
  - 🌱 I’m currently learning ...
- - 📫 Men bilan qanday bog'lanish mumkin: mtd.coder@gmail.com
+ - 📫 How to reach me: mtd.coder@gmail.com
 
 ### Skills
 <p align="left">
