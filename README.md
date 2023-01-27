@@ -5,7 +5,8 @@
  - 🌱 I’m currently learning ...
  - 📫 Men bilan qanday bog'lanish mumkin: mtd.coder@gmail.com
 
-
+### MY Skills
+Python
 
 <!--
 **Muhammaddiyor2002/Muhammaddiyor2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
