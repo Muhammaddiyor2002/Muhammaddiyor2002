@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi👋 My name is Muhammaddiyor
+
+
+ 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 Men bilan qanday bog'lanish mumkin: mtd.coder@gmail.com
+
+
 
 <!--
 **Muhammaddiyor2002/Muhammaddiyor2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
