@@ -1,4 +1,5 @@
 ### Hi👋 My name is Muhammaddiyor
+### I'm Full Stack Web developer
 
 
  - 🔭 I’m currently working on ...
