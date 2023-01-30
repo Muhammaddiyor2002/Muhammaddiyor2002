@@ -5,6 +5,7 @@
  - 🔭 I’m currently working on ...
  - 🌱 I’m currently learning Data Science
  - 📫 How to reach me: mtd.coder@gmail.com
+ - ⚡ Fun fact:
 
 ### Skills
 <p align="left">
