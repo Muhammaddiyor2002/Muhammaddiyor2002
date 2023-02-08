@@ -3,7 +3,7 @@
 
 
  - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning Data Science
+ - 🌱 I’m currently learning Data Science & ML
  - 📫 How to reach me: mtd.coder@gmail.com
  
 
