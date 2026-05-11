@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammaddiyor</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">Data Scientist & Full Stack Web Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Learning+Data+Science+%26+ML;Turning+ideas+into+clean+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;Full+Stack+Web+Developer;Turning+data+into+real+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **Full Stack Web projects**
-- 🌱 I'm currently learning **Data Science & Machine Learning**
-- 💬 Ask me about **JavaScript, Python, React, Django, FastAPI**
+- 📊 I'm a **Data Scientist** working with **Machine Learning & AI**
+- 🔭 I also build **Full Stack Web projects**
+- 💬 Ask me about **Python, Data Science, Machine Learning, React, Django, FastAPI**
 - 📫 Reach me at **[mtd.coder@gmail.com](mailto:mtd.coder@gmail.com)**
-- ⚡ Fun fact: *I love turning ideas into clean, working products.*
+- ⚡ Fun fact: *I love turning data and ideas into clean, working products.*
 
 ---
 
